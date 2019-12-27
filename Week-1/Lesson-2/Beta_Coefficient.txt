@@ -1,0 +1,8 @@
+A beta coefficient is a measure of the volatility, or systematic risk, 
+of an individual stock in comparison to the unsystematic risk of the entire market. 
+In statistical terms, beta represents the slope of the line through a regression of data points from an individual stock's returns
+against those of the market.
+
+Beta investopedia link:
+
+https://www.investopedia.com/terms/b/beta.asp
