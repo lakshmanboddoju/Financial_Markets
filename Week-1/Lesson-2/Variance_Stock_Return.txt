@@ -1,0 +1,10 @@
+Variance of the return of a stock is equal to its beta squared times the variance of market return(systematic risk)
+plus the variance of the residual in the regression (idiosyncratic risk).
+
+for a regression line y = mx + b,
+
+y - expected return on a individual stock. (ex: AAPL)
+x - expected overall market return (ex. S&P 500)
+m - Beta, correlation on how much the individual stock moves with the market. (measure of systematic risk)
+b - Aplha, represents idiosyncratic risk of the individual stock, independent of market movements. 
+    (high constant == high variability independent of market variability)
