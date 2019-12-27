@@ -1,0 +1,7 @@
+Stress Test :
+           It's a measure/a method of assessing risks to firms or portfolios. 
+           The idea of a stress test is to look at a portfolio not just by its historical returns and how variable they are, 
+           but let's look at the details of the portfolio and ask what vulnerabilities there are for various kinds of financial crisis, 
+           because what actually stresses firms the most are crisis, it's not just normal variation.
+           
+           
