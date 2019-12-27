@@ -1,0 +1,6 @@
+VAR - Variance, it is defined as a measure of the variability of a portfolio.
+
+VaR - Value at Risk, it's a measure used by some finance people to quantify risk of of an investment or of a portfolio.
+      It's quoted in units of dollars for a given probability and time horizon. 
+      For example, if it says lets's say 1%, one-year value at risk of 10 million, 
+      it means that there is a 1% chance that the portfolio will lose 10 million in one year.
